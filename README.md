@@ -6,7 +6,7 @@ Absztrakt: Ami az igekötőket illeti, elmondható, hogy sokan, sokféle aspektu
 
 A repozitórium a követező fájlokat tartalmazza:
 
-1. **nyers adatok**:
-2. **K-means program**:
-3. **különbségvektorok, klaszterezési eredmények**:
+1. **igekötők+V.xlsx**: ebben a fájlban hat munkalapon található meg, ebből az első öt a kiválasztott 5 igekötőhöz tartozó igék argumentumszerkezeti vektorait, míg az utolsó az igekötő nélküli igék argumentumszerkezeti vektorait tartalmazza. 
+2. **perf-besorolás-diff-cluster.xlsx**: ez a táblázat tartalmazza az igekötős és igekötő nélküli igék különbségvektorait, az általam készített besorolást, ami az igék kompozicionalitására és perfektív mivoltára vonatkozik, valamint a K-means klaszterezés eredményeit is.
+3. **k**:
  
